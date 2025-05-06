@@ -1,0 +1,4 @@
+groq==0.4.4
+mem0==0.1.0
+qdrant-client==1.7.0
+neo4j==5.15.0
